@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+div{
+    height: 600px;
+    width: 330px;
+    margin-top: 80px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(44, 44, 44);
+    border-radius: 13px;
+}
+img{
+    padding-top: 15px;
+    border-radius: 50px;
+    margin-left: 135px;
+}
+h1{
+    margin-left: 70px;
+    color: antiquewhite;
+}
+p{
+    margin-left: 55px;
+    color: rgb(198, 198, 189);
+}
+.p1{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 247, 0);
+    margin-left: 90px;
+ 
+}
+.hi{
+    margin-left: 35px;
+    margin-right: 20px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(74, 73, 72);
+    color: #ffffff;
+    height: 30px;
+    
+}
